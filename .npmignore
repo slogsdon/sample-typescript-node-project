@@ -1,0 +1,10 @@
+.vscode/
+node_modules/
+lib/test/
+test/
+*.d.ts
+*.log
+*.tgz
+
+!index.d.ts
+!index.ref.d.ts
